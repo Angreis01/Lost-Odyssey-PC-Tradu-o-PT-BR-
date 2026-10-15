@@ -22,3 +22,9 @@ A depuração interna não faz parte da tradução.
 Encontrou inglês, texto cortado ou algum erro de tradução? Abra uma **issue** com uma captura de tela, a localização no jogo e a versão utilizada.
 
 Projeto não oficial, sem vínculo com os detentores dos direitos de Lost Odyssey.
+
+Instalação
+1. Feche o LostOdysseyRecomp.
+2. Baixe e extraia o arquivo LostOdyssey_PTBR_V150_Unificado.zip.
+3. Copie a pasta pt-br para a pasta mods do LostOdysseyRecomp.
+  
