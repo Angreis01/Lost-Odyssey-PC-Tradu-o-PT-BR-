@@ -18,7 +18,7 @@ Os arquivos passaram por validação de estrutura, códigos, parâmetros e integ
 Como instalar
 1. Importe seu jogo normalmente no LostOdysseyRecomp.
 2. Baixe e extraia o pacote.
-3. Coloque a pasta LostOdyssey_PTBR_V155 ao lado de LostOdysseyRecomp.exe.
+3. Coloque a pasta LostOdyssey_PTBR ao lado de LostOdysseyRecomp.exe.
 4. Com o jogo fechado, execute Instalar.cmd.
 5. Aguarde a conclusão e abra o jogo em Português (Brasil).
 O instalador localiza os dados, verifica a compatibilidade e cria um backup antes de aplicar as alterações.
