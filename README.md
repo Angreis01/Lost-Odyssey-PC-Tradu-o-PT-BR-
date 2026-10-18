@@ -1,9 +1,7 @@
 ## Lost Odyssey — Tradução PT-BR Feita com IA
 CHATGPT 🤣🤣🤣🤣 (Fez o trabalho de tradução e edição de imagens para pt-br)
 
-DISCO 01 Traduzido(Pode conter coisas para traduzir ainda, pois foi feito com IA)
-DISCO 02 0%
-DISCO 03 0%
+Todos Discos traduzidos(Pode conter coisas para traduzir ainda, pois foi feito com IA)
 
 Lost Odyssey — Tradução PT-BR 
 Projeto independente de tradução para português do Brasil, desenvolvido para o LostOdysseyRecomp no Windows.
