@@ -1,6 +1,9 @@
 ## Lost Odyssey — Tradução PT-BR Feita com IA
 CHATGPT 🤣🤣🤣🤣 (Fez o trabalho de tradução e edição de imagens para pt-br)
 
+*USANDO A RECOMP DO FREEFRANK https://github.com/freefrank/LostOdysseyRecomp 
+NÃO FOI TESTADA EM OUTRAS.*
+
 Todos Discos traduzidos(Pode conter coisas para traduzir ainda, pois foi feito com IA)
 
 Lost Odyssey — Tradução PT-BR 
