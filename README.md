@@ -20,20 +20,17 @@ O que foi feito
 - Inclusão de Português (Brasil) na seleção de idioma.
 Os arquivos passaram por validação de estrutura, códigos, parâmetros e integridade. Nos contos, os tempos de aparição foram preservados.
 
-Como instalar
-1. Importe seu jogo normalmente no LostOdysseyRecomp.
-2. Baixe e extraia o pacote.
-3. Coloque a pasta LostOdyssey_PTBR ao lado de LostOdysseyRecomp.exe.
-4. Com o jogo fechado, execute Instalar.cmd.
-5. Aguarde a conclusão e abra o jogo em Português (Brasil).
-O instalador localiza os dados, verifica a compatibilidade e cria um backup antes de aplicar as alterações.
-Como desinstalar
-Feche o jogo e execute Desinstalar.cmd. Preserve a pasta de backup e o arquivo de registro criados durante a instalação.
-A desinstalação restaura o estado anterior ao pacote. Selecionar inglês ou desativar apenas o mod não desfaz os complementos aplicados diretamente aos dados.
+## Instalação
+
+1. Use LostOdysseyRecomp 1.0.6 ou posterior para Windows, com a base inglesa INT disponível. Este pacote não inclui o jogo.
+2. Se usava a V159 com instalador, desinstale-a com o desinstalador daquele pacote antes de testar esta edição sobre arquivos originais. Somente apagar a pasta mods não desfaz alterações feitas anteriormente nos discos. Preserve seus saves.
+3. Feche o jogo. Extraia este ZIP ao lado de LostOdysseyRecomp.exe. Isso coloca as pastas pt-br-idioma e lo-ptbr-interface-v160 dentro da pasta mods. Também pode copiar manualmente as duas pastas de dentro de mods para a pasta mods da sua instalação. Evite mods/mods.
+4. Não deixe versões antigas da tradução/interface ativas junto com esta. Se já existe pt-br-idioma, guarde a pasta anterior separadamente e use a desta versão inteira.
+5. Abra o jogo. Em Settings > System > Game language, selecione Português (Brasil), salve e reinicie.
+6. Em Mods, deixe Lost Odyssey PT-BR - Interface e videos ativado. A pasta de idioma aparece como pacote de idioma, selecionado na opção Game language.
 
 Compatibilidade e testes
-O pacote aceita as bases de dados reconhecidas pelo instalador. Se aparecer “base não reconhecida”, não force a instalação.
-A instalação, atualização, desinstalação e recuperação após falha foram testadas em cópias isoladas. Os testes completos de gameplay ainda estão em andamento; não há certificação de tradução de 100% de todos os recursos do jogo. Textos internos de depuração foram excluídos do escopo.
+A tradução foi feita para o recomp do Freefrank. Não foi testado em outros recomps.
 
 Encontrou algum problema?
 Abra uma Issue informando:
