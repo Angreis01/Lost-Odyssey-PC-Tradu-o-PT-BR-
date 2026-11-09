@@ -20,6 +20,22 @@ O que foi feito
 - Inclusão de Português (Brasil) na seleção de idioma.
 Os arquivos passaram por validação de estrutura, códigos, parâmetros e integridade. Nos contos, os tempos de aparição foram preservados.
 
+## Correções 09/11/2026
+
+**Nomes de área (issue #8)** — o menu mostrava o nome de outra região (ex.: Grandes Ruínas Ancestrais
+aparecendo como Boa Branca, Mansão de Gongora com o nome trocado). A lista de nomes do menu pula
+entradas vazias e 33 marcações de área que no original eram um espaço em branco tinham sido gravadas
+como texto vazio; a partir do primeiro vazio cada área passava a exibir o nome da seguinte. As 33
+entradas foram restauradas. Arquivo: `mods/pt-br-idioma/text/bin/xenon/loc/int/field/name_data.xmb.json`.
+
+**Fontes do combate (issue #7)** — os rótulos Perfeito/Bom/Ruim, ERRO, DEFESA, PV, PM, DEFESA DANO,
+DANO + e ATRASO estavam sem contorno e sem sombra. Foram redesenhados com o mesmo estilo dos originais
+(fonte pesada, contorno preto e sombra), na mesma altura e linha de base. Arquivos:
+`mods/lo-ptbr-interface-v160/overlay/textures/fp-1627668e252c2566.lotex2` e `fp-8b6461694cb2ad8b.lotex2`.
+
+Nenhum texto traduzido foi reescrito: 2.508 chaves do cenário continuam as mesmas, com 33 valores
+brancos restaurados, e as duas texturas mudaram apenas nas áreas dos rótulos.
+
 ## Instalação
 
 1. Use LostOdysseyRecomp 1.0.6 ou posterior para Windows, com a base inglesa INT disponível. Este pacote não inclui o jogo.
