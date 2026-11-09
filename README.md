@@ -53,4 +53,16 @@ Abra uma Issue informando:
 - Versão do LostOdysseyRecomp e do pacote de tradução.
 - Área, cena ou conto em que ocorreu.
 - Captura de tela e descrição do problema.
+## Créditos e contribuições de ajuda
+
+- **Tradução, revisão e edição de imagens:** trabalho original do projeto (feito com IA — ChatGPT).
+- **Correções técnicas das issues #3 a #8 (09/11/2026):** **DeepSeek** — agente de IA de codificação
+  (DeepSeek Harness). Nesse lote: nomes de área corrigidos (#8), fontes do combate redesenhadas no
+  estilo original (#7), layout de texto das 34 memórias (#3), "Quintal" → "Beco" (#4) e "Maná" → "Mana" (#5),
+  além da publicação do pacote.
+- **Testes em jogo e relato dos bugs:** Left4J e demais jogadores que abriram as issues.
+
+Assistência de IA usada na revisão e nas correções; os créditos do projeto continuam com o autor
+original da tradução.
+
 Projeto de fãs, sem vínculo oficial com os responsáveis por Lost Odyssey.
